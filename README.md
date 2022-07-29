@@ -8,3 +8,4 @@ So far:
 profile found by the KModes code. 
 * _EDA_V5.ipynb_ is the code for creating all sorts of plots similar to the ones found on the following 
 website: https://www.humano.ro/hr-data-management-and-visualization-powerful-insights/ 
+* _Data visualization for HR.pdf_ contains some examples of plots created by the _EDA_ code from the previous bullet point.
